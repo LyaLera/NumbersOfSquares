@@ -9,6 +9,7 @@ public class SQRService {
                 result++;
             }
         }
+        System.out.println(result);
         return result;
     }
 }
